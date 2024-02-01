@@ -4,7 +4,10 @@ This project aims to develop a machine learning model for predicting breast canc
 Key Features
 
 Data Exploration: In-depth analysis of the dataset to understand the characteristics of the available features.
+
 Preprocessing: Cleaning and transforming data for optimal model performance.
+
 Model Development: Utilizing machine learning algorithms (e.g., logistic regression,Random Forest, and decision tree) to build a robust predictive model.
-Evaluation Metrics: Assessing model performance using relevant metrics such as accuracy, precision, recall, and ROC-AUC.
+
+Evaluation Metrics: Assessing model performance using relevant metrics such as accuracy, precision, recall, and support.
 Interactive Interface (Optional): A user-friendly interface to input new data and obtain predictions.
